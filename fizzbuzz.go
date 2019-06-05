@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-
+println("hello world")
 //var i int = 100
 
 /* for loop number 1-100 */
